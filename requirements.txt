@@ -2,4 +2,5 @@ scikit-learn
 matplotlib
 pandas
 numpy
-
+keras
+seaborn
